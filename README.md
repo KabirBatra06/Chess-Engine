@@ -18,7 +18,10 @@ In this project, I develop a simplified chess game.
 I implement 4 types of pieces: a Pawn ♟, Rook ♜, Bishop ♝, King ♚.  
 The pieces will move as per normal chess rules.  
 The chess board need not necessarily be 8x8.
-Some simplifications have been made. For example: (i) Pawns do not get promoted to other pieces; (ii) Castling is not allowed; and (iii) En Passant pawn capture is not allowed.
+Some simplifications have been made. For example: 
+- (i) Pawns do not get promoted to other pieces.
+- (ii) Castling is not allowed.
+- (iii) En Passant pawn capture is not allowed.
 
 # Concepts Used
 
